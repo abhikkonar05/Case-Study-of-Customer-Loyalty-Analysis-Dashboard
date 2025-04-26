@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
 import seaborn as sns
+import numpy as np
 import calendar
 data=pd.read_csv("D:/Customer Loyalty History.csv")
 print(data)
