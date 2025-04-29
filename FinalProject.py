@@ -1,8 +1,8 @@
+import numpy as np
 import calendar
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import numpy as np
 data=pd.read_csv("D:/Customer Loyalty History.csv")
 print(data)
 print("Dataset Info",data.info)
